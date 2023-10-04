@@ -1,0 +1,44 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+
+}
+
+
+h1{
+background: #960404;
+
+color: #270421;
+
+font-family:'Times New Roman', Times, serif;
+font-size:2.5em;
+font-style: oblique;
+font-weight: 500;
+letter-spacing: 5px;
+line-height: 50px;
+margin-right: 50px;
+margin-left: 50px;
+margin-top: 50px;
+padding-left: 15px;
+text-align:center;
+text-decoration: dashed;
+text-shadow:10px 5px 5px #e6dede;
+text-transform: uppercase;
+word-spacing: 1em;
+    
+
+}
+
+main p{
+    text-indent: 4em;
+    text-shadow: 10px 5px 5px #e00b0b;
+    
+}
+footer p{
+    text-shadow: 10px 5px 5px #e00b0b;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size:10px;
+}
+
